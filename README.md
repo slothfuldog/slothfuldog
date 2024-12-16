@@ -66,7 +66,7 @@ A backend API for managing user accounts, banking transactions, and ledgers.
 - **Tech Stack:** Golang, PostgreSQL, PASETO
 - **Role:** Backend Developer
 
-#### **[Gemini WhatsApp Bot](https://github.com/slothfuldog/gemini-whatsapp-bot)**
+#### **[Gemini WhatsApp Bot](https://github.com/slothfuldog/go-gemini-whatsapp)**
 An AI-powered WhatsApp bot integrated with Gemini.
 - **Tech Stack:** Go
 - **Role:** Backend Developer
