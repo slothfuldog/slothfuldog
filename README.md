@@ -48,7 +48,7 @@ I am a **Fullstack Developer (Backend Heavy)** with a focus on **Web Development
 ### 🌐 **Projects**
 #### **[Renthaven](https://github.com/slothfuldog/renthaven)**
 A property rental web app that allows users to rent properties and list their own. 
-- **Tech Stack:** React.js, Express.js, PostgreSQL
+- **Tech Stack:** React.js, Express.js, MySQL
 - **Role:** Full-stack Developer
 
 #### **[CashierApp](https://github.com/slothfuldog/cashierapp)**
@@ -58,7 +58,7 @@ A web app for managing orders, menus, and income records.
 
 #### **[Reward Point System](https://github.com/slothfuldog/reward-point-system)**
 A web app to manage reward points for various actions.
-- **Tech Stack:** React.js, TypeScript, FiberGo (Golang)
+- **Tech Stack:** React.js, TypeScript, FiberGo (Golang), PostgreSQL
 - **Role:** Full-stack Developer
 
 #### **[Digibank: Digital Banking System](https://github.com/slothfuldog/digibank)**
