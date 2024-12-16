@@ -6,6 +6,7 @@ I am a **Fullstack Developer (Backend Heavy)** with a focus on **Web Development
 
 ### 🌟 **About Me**
 - 🔭 Currently working as a **Core Banking System Developer (E-Channel Team)** at **PT. NEXT Transformtech Indonesia**.
+- ⚡ Currently learning DevOps and AWS for AWS Developer Associate Certification
 - 🌱 Constantly learning and exploring modern technologies, frameworks, and best practices.
 - 👨‍💻 Passionate about backend development, API design, and database optimization.
 - 💬 Ask me about: **Golang**, **React.js**, **Database Design**, and **Web Security**.
