@@ -75,6 +75,6 @@ An AI-powered WhatsApp bot integrated with Gemini.
 ---
 
 ### 📈 **Stats**
-![Betha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slothfuldog&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Betha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slothfuldog&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slothfuldog&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slothfuldog&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
